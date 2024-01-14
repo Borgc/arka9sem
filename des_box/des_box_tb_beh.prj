@@ -1,0 +1,2 @@
+vhdl work "des_box.vhd"
+vhdl work "des_box_tb.vhd"
