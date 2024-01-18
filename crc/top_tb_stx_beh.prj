@@ -1,0 +1,4 @@
+vhdl isim_temp "ram.vhd"
+vhdl isim_temp "crc.vhd"
+vhdl isim_temp "top.vhd"
+vhdl isim_temp "top_tb.vhd"
